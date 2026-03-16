@@ -1,3 +1,2 @@
-## Methods
+Development of a Software Tool for Phonocardiogram Signal Processing
 
-The algorithm includes signal centering, envelope extraction, moving average smoothing, threshold filtering, and peak detection.
