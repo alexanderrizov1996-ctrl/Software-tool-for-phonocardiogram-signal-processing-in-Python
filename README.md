@@ -1,2 +1,3 @@
-## Project Goal 
-The goal of the project is to detect the beginning, peak, and end of the first heart sound in each cardiac cycle.
+## Methods
+
+The algorithm includes signal centering, envelope extraction, moving average smoothing, threshold filtering, and peak detection.
